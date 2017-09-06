@@ -25,6 +25,11 @@
     </td>
   </tr>
   <tr>
+    <td align=center>
+      下载安卓版，更快更方便<br/><a href="https://raw.githubusercontent.com/oGate2/up/master/oGate.apk">https://git.io/ogatea2</a><br/>
+    </td>
+  </tr>
+  <tr>
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
   </tr>
   <tr>
