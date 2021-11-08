@@ -3,6 +3,15 @@
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td>
   </tr>
   <tr>
+    <td align=center>网站升级维护通知
+
+为提供更好的网络服务，网门网站全面维护与技术升级，暂无法访问。此间，请大陆网友勿测试与使用网门相关服务。
+
+请耐心等待通知，注意安全。
+
+网门团队</td>
+  </tr>  
+  <tr>
     <td align=center>网门 網門<br/>
       欢迎来到固定网址页面，请收藏<br/>
       https://git.io/ogate2<br/>
